@@ -170,7 +170,7 @@ Hi! I'm **Akshay Nikam**, a passionate **Data Analyst** and **Python Developer**
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://akshaynikam0407.github.io/">
+<a href="https://akshaynikam0407.github.io/nikamakshay0407.github.io/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox-browser"/>
 </a>
 
