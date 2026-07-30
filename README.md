@@ -76,6 +76,7 @@ Hi! I'm **Akshay Nikam**, a passionate **Data Analyst** and **Python Developer**
 | 🚖 [OLA Rides Report](https://github.com/akshaynikam0407/OLA_Report) | Analysis of 100K+ OLA ride bookings — booking trends, cancellations & revenue | Power BI |
 | 📈 [Crypto Volume Analyzer](https://github.com/akshaynikam0407/-crypto-volume-analyzer) | Live cryptocurrency dashboard with portfolio tracking | HTML, CSS, JavaScript |
 | 🌐 [Portfolio Website](https://akshaynikam0407.github.io/nikamakshay0407.github.io/) | My personal portfolio showcasing projects & resume | HTML, CSS |
+| 📱 [Google Play Store Data Analysis Dashboard](https://github.com/akshaynikam0407/google-playstore-data-analysis) | Interactive Excel dashboard analyzing 11,500 apps — installs, ratings, pricing, content categories & engagement | Excel |
 
 > 📌 Check out all repositories on my [GitHub profile](https://github.com/akshaynikam0407?tab=repositories).
 
